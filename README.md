@@ -21,7 +21,7 @@ In this project, I successfully implementation of a project on Oracle Cloud Infr
 
 Project Execution
 # 1. VCN Creation
-The project began with the creation of a Virtual Cloud Network (VCN) within the Oracle Cloud Infrastructure Console. The VCN was configured with a CIDR block of 10.0.0.1/16 , a public subnet with CIDR block of 10.0.0.1/24, and a private subnet with CIDR block of 10.0.1.1/16. The public subnet was designated for the Ubuntu instance, ensuring external accessibility, while the private subnet was intended for future internal resources.
+The project began with the creation of a Virtual Cloud Network (VCN) within the Oracle Cloud Infrastructure Console. The VCN was configured with a CIDR block of 10.0.0.1/16 , a public subnet with CIDR block of 10.0.0.1/24, and a private subnet with CIDR block of 10.0.1.1/14. The public subnet was designated for the Ubuntu instance, ensuring external accessibility, while the private subnet was intended for future internal resources.
 
 # 2. Security List Configuration
 Security lists were configured to allow incoming TCP traffic on port 80 (HTTP) within the public subnet. The following rules were added to the security list:
