@@ -58,7 +58,7 @@ The project was successfully completed, meeting all of its objectives. A Virtual
 
 # YouTube Demonstration
 
-A step by step guid to this project here on youtube <a href="https://www.youtube.com/watch?v=2KKESuTnyTM&list=PL9V0QedB-FPI1HwJTUFYdE05aSCZj1wnf">Youtube Tutorial</a>
+Here is a step by step guid to this project:  <a href="https://www.youtube.com/watch?v=2KKESuTnyTM&list=PL9V0QedB-FPI1HwJTUFYdE05aSCZj1wnf">Tutorial</a>
 
 This project demonstrates the effective use of Oracle Cloud Infrastructure (OCI) for creating a secure and accessible web hosting environment. The skills and knowledge gained from this project can be applied to various scenarios within the cloud environment.
 
